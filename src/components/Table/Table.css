@@ -1,0 +1,36 @@
+.table {
+  width: 100%;
+  margin: auto;
+  font-size: 15px;
+}
+
+.tb-title {
+  border-left: 1px solid lightblue;
+  border-right: 1px solid lightblue;
+  padding-bottom: 10px;
+}
+
+.tb-year {
+  border-left: 1px solid lightblue;
+  border-right: 1px solid lightblue;
+  padding-bottom: 10px;
+}
+
+.tb-col {
+  border-left: 1px solid lightblue;
+  border-right: 1px solid lightblue;
+  padding: 0 15px;
+}
+
+.tb-row {
+  padding: 20px;
+}
+
+.tb-data {
+  padding: 10px;
+}
+
+.tb-data:hover {
+  padding: 10px;
+  background-color: lightblue;
+}

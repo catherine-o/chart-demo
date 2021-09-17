@@ -1,0 +1,16 @@
+.home-container {
+  margin: 25px auto;
+  width: 950px;
+}
+
+.home-title {
+  margin: 0px;
+}
+
+.search-title {
+  display: flex;
+  margin-bottom: 15px;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
